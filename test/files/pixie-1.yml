@@ -1,0 +1,5 @@
+env1:
+  pixie_host: dore.mi
+  pixie_account: foo
+  pixie_password: secret123
+
